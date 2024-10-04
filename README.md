@@ -1,24 +1,6 @@
-
-
-
-
-
-
-
-
-
-
-
-#yo yo
-
-This is a simple repo to test GitHub pages
-
-More
-
-
-
-# A guide to designing and understanding centralized daycare admissions
+# A guide to design and understand centralized daycare admissions
 <br>
+![Q5](https://github.com/user-attachments/assets/dd4cd2d9-8fdf-485f-a019-f93478478606)
 
 <img src="https://github.com/user-attachments/assets/e9818763-1cb7-4661-9e75-5580e2b1daa6" width="160" />
 <img src="https://github.com/user-attachments/assets/df0c5ebf-bdb3-4c51-97d6-c3f31d004ccb" width="310" />
